@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Receive Bookmarks</name>
+	<author url="http://christian-gredig.de">Christian Gredig</author>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<version>0.1</version>
+	<description><![CDATA[
+		Provides a Bookmarklet so you can send links to Habari and have them saved as posts. You can use just the bookmarklet with some basic options or you can edit the post after saving to have more metadata included.
+	]]></description>
+	<guid>d978dff4-53e0-4be0-8278-1373a02c1bbe</guid>
+</pluggable> 
